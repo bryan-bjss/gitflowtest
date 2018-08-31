@@ -11,5 +11,5 @@ Mod_Dog.bark();
 Mod_Cat.miaow();
 Mod_Cat.stroke(7);
 
-console.log('App has now finished');
+console.log('App has finally finished');
 
