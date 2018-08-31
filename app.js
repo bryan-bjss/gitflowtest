@@ -4,7 +4,7 @@
 let Mod_Dog = require('./dog.js');
 let Mod_Cat = require('./cat.js');
 
-console.log('App is starting');
+console.log('Hot_Fix_3: App is starting');
 
 // Important to bark twice..
 Mod_Dog.bark(2);
