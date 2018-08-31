@@ -4,7 +4,11 @@
 let Mod_Dog = require('./dog.js');
 let Mod_Cat = require('./cat.js');
 
+<<<<<<< HEAD
+console.log('Hot_Fix_3: App is starting');
+=======
 console.log('Cat_Mod_Version: App is starting');
+>>>>>>> cat-mod
 
 // Important to bark twice..
 Mod_Dog.bark(2);
