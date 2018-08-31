@@ -1,0 +1,19 @@
+{
+  "name": "gitflowtest",
+  "version": "1.0.0",
+  "description": "To test how gitflow merges and branching works",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bryan-bjss/gitflowtest.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bryan-bjss/gitflowtest/issues"
+  },
+  "homepage": "https://github.com/bryan-bjss/gitflowtest#readme"
+}
