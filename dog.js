@@ -3,8 +3,10 @@ function woof() {
     console.log('Woof Woof');
 }
 
-function bark() {
-    console.log('Bark!!');
+function bark(BarkCount) {
+    for(let i = 0; i < BarkCount; ++i) {
+        console.log('Barkety-bark!!');
+    }
 }
 
 module.exports = {
