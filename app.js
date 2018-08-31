@@ -4,7 +4,7 @@
 let Mod_Dog = require('./dog.js');
 let Mod_Cat = require('./cat.js');
 
-console.log('App is starting');
+console.log('Cat_Mod_Version: App is starting');
 
 Mod_Dog.bark();
 
